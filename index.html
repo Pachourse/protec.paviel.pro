@@ -29,16 +29,19 @@
                 </div>`
                 document.body.insertAdjacentHTML('beforeend', alertMessage);
             };
+            const paramShopId = url.searchParams.get('shopid');
+            if (!paramShopId) {
+                paramShopId = "TEST";
+            };
             console.log(paramFormId);
             
             const googleFormsUrl = `https://docs.google.com/forms/d/e/${paramFormId}/formResponse?&submit=Submit?usp=pp_url`;
 
             function requestQuantity(item, category) {
                 let quantity = prompt("Entrez la quantité pour " + item.name, "1");
-                const selectedShop = document.getElementById("linkChoice").value;
                 if (quantity !== null && quantity.trim() !== "") {
                     let formData = new FormData();
-                    formData.append("entry.1509197654", selectedShop); 
+                    formData.append("entry.1509197654", paramShopId); 
                     formData.append("entry.400299108", item.abbr); 
                     formData.append("entry.1317949062", quantity); 
                     
@@ -80,12 +83,8 @@
     </script>
 </head>
 <body class="container mt-4">
-    <select id="linkChoice" class="form-select mb-3">
-        <option value="TEST">TEST</option>
-        <option value="AURIOL">AURIOL</option>
-        <option value="TOLBIAC">TOLBIAC</option>
-    </select>
     <h1 class="mb-4">Sélection d'articles</h1>
+    <h1 class="mb-4">paramShopId</h1>
     <div id="items-container" class="row"></div>
 </body>
 </html>
