@@ -26,7 +26,7 @@
           { "name": "Cafe en gros", "abbr": "2-CAFEGROS", "icon": "fa-mug-hot" },
           { "name": "Sucre en dosettes", "abbr": "2-SUCREDOSETTES", "icon": "fa-cube" },
           { "name": "Chocolat", "abbr": "2-CHOCOLAT", "icon": "fa-candy-cane" },
-          { "name": "Biscuits", "abbr": "2-BISCUITS", "icon": "fa-cookie" },
+          { "name": "Biscuits", "abbr": "2-BISCUITS", "icon": "fa-cookie" }
       ]
   },
   "vetements": {
