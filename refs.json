@@ -44,3 +44,58 @@
     }
   }
 }
+{
+  "hygiène": {
+      "color": "primary",
+      "items": [
+          { "name": "Gel douche", "abbr": "GD", "icon": "fa-soap" },
+          { "name": "Shampoing", "abbr": "SH", "icon": "fa-bottle-shampoo" },
+          { "name": "Mousse à raser", "abbr": "MR", "icon": "fa-pump-soap" },
+          { "name": "Rasoir", "abbr": "RA", "icon": "fa-razor" },
+          { "name": "Brosse à dents", "abbr": "BD", "icon": "fa-toothbrush" },
+          { "name": "Dentifrice", "abbr": "DT", "icon": "fa-tube" },
+          { "name": "Mouchoir", "abbr": "MO", "icon": "fa-box-tissue" },
+          { "name": "Protection hygiénique", "abbr": "PH", "icon": "fa-droplet" },
+          { "name": "Lingettes", "abbr": "LI", "icon": "fa-hand-sparkles" },
+          { "name": "Déodorant", "abbr": "DE", "icon": "fa-spray-can" }
+      ]
+  },
+  "alimentaire": {
+      "color": "success",
+      "items": [
+          { "name": "Nouilles en bol", "abbr": "NB", "icon": "fa-bowl-food" },
+          { "name": "Nouilles en sachet", "abbr": "NS", "icon": "fa-box" },
+          { "name": "Soupe", "abbr": "SP", "icon": "fa-mug-hot" },
+          { "name": "Sardine en conserves", "abbr": "SC", "icon": "fa-fish" },
+          { "name": "Café en dosettes", "abbr": "CD", "icon": "fa-coffee" },
+          { "name": "Café en gros", "abbr": "CG", "icon": "fa-mug-hot" },
+          { "name": "Sucre en dosettes", "abbr": "SD", "icon": "fa-cube" },
+          { "name": "Chocolat", "abbr": "CH", "icon": "fa-candy-cane" },
+          { "name": "Biscuits", "abbr": "BI", "icon": "fa-cookie" },
+          { "name": "Gâteaux", "abbr": "GA", "icon": "fa-birthday-cake" }
+      ]
+  },
+  "vêtements": {
+      "color": "info",
+      "items": [
+          { "name": "Chaussettes", "abbr": "CHS", "icon": "fa-socks" },
+          { "name": "Sous-vêtements", "abbr": "SV", "icon": "fa-user-tie" },
+          { "name": "Gants", "abbr": "GA", "icon": "fa-hand-paper" },
+          { "name": "Bonnets", "abbr": "BO", "icon": "fa-hat-wizard" }
+      ]
+  },
+  "ustensiles": {
+      "color": "secondary",
+      "items": [
+          { "name": "Bols", "abbr": "BO", "icon": "fa-utensil-spoon" },
+          { "name": "Gobelets", "abbr": "GO", "icon": "fa-glass-whiskey" },
+          { "name": "Couverts jetables", "abbr": "CJ", "icon": "fa-utensils" }
+      ]
+  },
+  "autre": {
+      "color": "warning",
+      "items": [
+          { "name": "Article Divers", "abbr": "AD", "icon": "fa-box" }
+      ]
+  }
+}
