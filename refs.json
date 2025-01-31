@@ -2,48 +2,48 @@
   "hygiene": {
       "color": "primary",
       "items": [
-          { "name": "Gel douche", "abbr": "GD", "icon": "fa-soap" },
-          { "name": "Shampoing", "abbr": "SH", "icon": "fa-bottle-shampoo" },
-          { "name": "Mousse à raser", "abbr": "MR", "icon": "fa-pump-soap" },
-          { "name": "Rasoir", "abbr": "RA", "icon": "fa-razor" },
-          { "name": "Brosse à dents", "abbr": "BD", "icon": "fa-toothbrush" },
-          { "name": "Dentifrice", "abbr": "DT", "icon": "fa-tube" },
-          { "name": "Mouchoir", "abbr": "MO", "icon": "fa-box-tissue" },
-          { "name": "Protection hygienique", "abbr": "PH", "icon": "fa-droplet" },
-          { "name": "Lingettes", "abbr": "LI", "icon": "fa-hand-sparkles" },
-          { "name": "Deodorant", "abbr": "DE", "icon": "fa-spray-can" }
+          { "name": "Gel douche", "abbr": "1-GELDOUCHE", "icon": "fa-soap" },
+          { "name": "Shampoing", "abbr": "1-SHAMPOO", "icon": "fa-bottle-shampoo" },
+          { "name": "Mousse à raser", "abbr": "1-MOUSSERASER", "icon": "fa-pump-soap" },
+          { "name": "Rasoir", "abbr": "1-RASOIR", "icon": "fa-razor" },
+          { "name": "Brosse à dents", "abbr": "1-BROSSEDENTS", "icon": "fa-toothbrush" },
+          { "name": "Dentifrice", "abbr": "1-DENTIFRICE", "icon": "fa-tube" },
+          { "name": "Mouchoir", "abbr": "1-MOUCHOIRS", "icon": "fa-box-tissue" },
+          { "name": "Protection hygienique", "abbr": "1-PROTECHYG", "icon": "fa-droplet" },
+          { "name": "Lingettes", "abbr": "1-LINGETTES", "icon": "fa-hand-sparkles" },
+          { "name": "Deodorant", "abbr": "1-DEODORANT", "icon": "fa-spray-can" }
       ]
   },
   "alimentaire": {
       "color": "success",
       "items": [
-          { "name": "Nouilles en bol", "abbr": "NB", "icon": "fa-bowl-food" },
-          { "name": "Nouilles en sachet", "abbr": "NS", "icon": "fa-box" },
-          { "name": "Soupe", "abbr": "SP", "icon": "fa-mug-hot" },
-          { "name": "Sardine en conserves", "abbr": "SC", "icon": "fa-fish" },
-          { "name": "Cafe en dosettes", "abbr": "CD", "icon": "fa-coffee" },
-          { "name": "Cafe en gros", "abbr": "CG", "icon": "fa-mug-hot" },
-          { "name": "Sucre en dosettes", "abbr": "SD", "icon": "fa-cube" },
-          { "name": "Chocolat", "abbr": "CH", "icon": "fa-candy-cane" },
-          { "name": "Biscuits", "abbr": "BI", "icon": "fa-cookie" },
-          { "name": "Gateaux", "abbr": "GA", "icon": "fa-birthday-cake" }
+          { "name": "Nouilles en bol", "abbr": "2-NOUILLESBOL", "icon": "fa-bowl-food" },
+          { "name": "Nouilles en sachet", "abbr": "2-NOUILLESSACHET", "icon": "fa-box" },
+          { "name": "Soupe", "abbr": "2-SOUPE", "icon": "fa-mug-hot" },
+          { "name": "Poisson conserves", "abbr": "2-CONSERVEPOISSON", "icon": "fa-fish" },
+          { "name": "Autres conserves", "abbr": "2-CONSERVEAUTRE", "icon": "fa-fish" },
+          { "name": "Cafe en dosettes", "abbr": "2-CAFEDOSETTES", "icon": "fa-coffee" },
+          { "name": "Cafe en gros", "abbr": "2-CAFEGROS", "icon": "fa-mug-hot" },
+          { "name": "Sucre en dosettes", "abbr": "2-SUCREDOSETTES", "icon": "fa-cube" },
+          { "name": "Chocolat", "abbr": "2-CHOCOLAT", "icon": "fa-candy-cane" },
+          { "name": "Biscuits", "abbr": "2-BISCUITS", "icon": "fa-cookie" },
       ]
   },
   "vetements": {
       "color": "info",
       "items": [
-          { "name": "Chaussettes", "abbr": "CHS", "icon": "fa-socks" },
-          { "name": "Sous-vetements", "abbr": "SV", "icon": "fa-user-tie" },
-          { "name": "Gants", "abbr": "GA", "icon": "fa-hand-paper" },
-          { "name": "Bonnets", "abbr": "BO", "icon": "fa-hat-wizard" }
+          { "name": "Chaussettes", "abbr": "3-CHAUSSETTES", "icon": "fa-socks" },
+          { "name": "Sous-vetements", "abbr": "3-SOUSVETEMENTS", "icon": "fa-user-tie" },
+          { "name": "Gants", "abbr": "3-GANTS", "icon": "fa-hand-paper" },
+          { "name": "Bonnets", "abbr": "3-BONNET", "icon": "fa-hat-wizard" }
       ]
   },
   "ustensiles": {
       "color": "secondary",
       "items": [
-          { "name": "Bols", "abbr": "BO", "icon": "fa-utensil-spoon" },
-          { "name": "Gobelets", "abbr": "GO", "icon": "fa-glass-whiskey" },
-          { "name": "Couverts jetables", "abbr": "CJ", "icon": "fa-utensils" }
+          { "name": "Bols", "abbr": "4-BOLS", "icon": "fa-utensil-spoon" },
+          { "name": "Gobelets", "abbr": "4-GOBLETS", "icon": "fa-glass-whiskey" },
+          { "name": "Couverts jetables", "abbr": "4-COUVJET", "icon": "fa-utensils" }
       ]
   },
   "autre": {
