@@ -49,7 +49,7 @@
   "autre": {
       "color": "warning",
       "items": [
-          { "name": "Article Divers", "abbr": "AD", "icon": "fa-box" }
+          { "name": "Article Divers", "abbr": "AUTRE", "icon": "fa-box" }
       ]
   }
 }
