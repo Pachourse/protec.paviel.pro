@@ -1,0 +1,46 @@
+{
+  "categories": {
+    "hygiène": {
+      "color": "#1E90FF",
+      "items": [
+        {"name": "Gel douche", "abbr": "GD", "icon": "fa-solid fa-soap"},
+        {"name": "Shampoing", "abbr": "SH", "icon": "fa-solid fa-bottle-shampoo"},
+        {"name": "Mousse à raser", "abbr": "MR", "icon": "fa-solid fa-pump-soap"},
+        {"name": "Rasoir", "abbr": "RA", "icon": "fa-solid fa-razor"},
+        {"name": "Brosse à dents", "abbr": "BD", "icon": "fa-solid fa-toothbrush"},
+        {"name": "Dentifrice", "abbr": "DT", "icon": "fa-solid fa-tube"},
+        {"name": "Mouchoir", "abbr": "MO", "icon": "fa-solid fa-box-tissue"},
+        {"name": "Protection hygiénique", "abbr": "PH", "icon": "fa-solid fa-droplet"},
+        {"name": "Lingettes", "abbr": "LG", "icon": "fa-solid fa-wind"},
+        {"name": "Déodorant", "abbr": "DO", "icon": "fa-solid fa-spray-can"}
+      ]
+    },
+    "alimentaire": {
+      "color": "#32CD32",
+      "items": [
+        {"name": "Nouilles en bol", "abbr": "NB", "icon": "fa-solid fa-bowl-food"},
+        {"name": "Nouilles en sachet", "abbr": "NS", "icon": "fa-solid fa-box"},
+        {"name": "Soupe", "abbr": "SP", "icon": "fa-solid fa-mug-hot"},
+        {"name": "Sardine en conserves", "abbr": "SC", "icon": "fa-solid fa-fish"},
+        {"name": "Café en dosettes", "abbr": "CD", "icon": "fa-solid fa-coffee"},
+        {"name": "Café en gros", "abbr": "CG", "icon": "fa-solid fa-mug-hot"},
+        {"name": "Sucre en dosettes", "abbr": "SD", "icon": "fa-solid fa-cube"},
+        {"name": "Chocolat", "abbr": "CH", "icon": "fa-solid fa-candy-cane"},
+        {"name": "Biscuits", "abbr": "BI", "icon": "fa-solid fa-cookie"},
+        {"name": "Gâteaux", "abbr": "GA", "icon": "fa-solid fa-birthday-cake"}
+      ]
+    },
+    "autre": {
+      "color": "#FFD700",
+      "items": [
+        {"name": "Chaussettes", "abbr": "CHS", "icon": "fa-solid fa-socks"},
+        {"name": "Sous-vêtements", "abbr": "SV", "icon": "fa-solid fa-tshirt"},
+        {"name": "Gants", "abbr": "GA", "icon": "fa-solid fa-hand-paper"},
+        {"name": "Bonnets", "abbr": "BO", "icon": "fa-solid fa-hat-winter"},
+        {"name": "Bols", "abbr": "BL", "icon": "fa-solid fa-bowl-rice"},
+        {"name": "Goblets", "abbr": "GB", "icon": "fa-solid fa-glass-martini"},
+        {"name": "Couverts jetables", "abbr": "CJ", "icon": "fa-solid fa-utensils"}
+      ]
+    }
+  }
+}
